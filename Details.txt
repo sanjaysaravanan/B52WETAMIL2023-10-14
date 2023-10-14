@@ -56,6 +56,20 @@ Topics:
       
       Object.values(obj): return array of values
 
+Task:
+  Day 3: https://docs.google.com/document/d/1TPk3wqxDFi64WV-6hJOkYEzBaAYxNvZ4T9hRJGgvFjw/edit
+
+
+  Anonymous:
+    const funcTwo = function (arg1, arg2) {
+      console.log("Inside FuncTwo", arg1, arg2);
+      return 999;
+    };
+
+  Submit as JS File, please refer sample-task.js
+  
+  Submit within two days ( Oct 16, 2023 )
+
 Next Session:
 
   XMLHttpRequest
