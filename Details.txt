@@ -1,0 +1,61 @@
+
+Topics:
+
+  var --> es5, let, const --> es6,  
+
+  how javascript was named 
+
+  Hoisting: ( meaning going from bottom to top level  )
+
+    Moving the declartions of the variable/function/other types to the top level, 
+    i.e, even before starting the execution of the js codes 
+
+    1. var:
+        Moves the declartion to the top level with value undefined
+
+    2. let, const ( block scoped variable )
+        Let, const cannot be hoisted
+        reason --> local/current scope variables
+
+    3. function
+        Functions is also will be hoisted with proper function definition
+
+
+  block scoping:
+    using let, const inside local scope instead of var
+  
+  Copy by Value & Copy by Reference:
+
+    value:
+      passing the value for the argument/parameter as a primitive variable( varaible which holds primitive data )
+
+    Reference:
+      passing the value for the argument/parameter as a composite variable( varaible which holds composite data )
+
+  types of functions:
+    0. Normal Function
+    1. Anonymous Function - a function with no name is called as anonymous function
+    2. function variable - a function used as a value to a variable
+    3. Arrow functions:
+      Function whcih uses arrow syntax instead of function keywor
+      function keyword vs arrow syntax --> will discuss during OOPS Concept
+    4. IIFE --> 
+    
+  Iteration Concepts:
+    for of
+    for in
+    array forEach
+
+    Array:
+      for of
+      for in
+    
+    JSON Iteration:
+      for in
+      Object.keys(obj): return array of keys
+      
+      Object.values(obj): return array of values
+
+Next Session:
+
+  XMLHttpRequest
