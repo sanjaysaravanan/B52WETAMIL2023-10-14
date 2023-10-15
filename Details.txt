@@ -39,7 +39,7 @@ Topics:
     3. Arrow functions:
       Function whcih uses arrow syntax instead of function keywor
       function keyword vs arrow syntax --> will discuss during OOPS Concept
-    4. IIFE --> 
+    4. IIFE --> Immediately Invoked Function Express
     
   Iteration Concepts:
     for of
